@@ -1,0 +1,17 @@
+.home{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.left img{
+    margin-top: 40px;
+    border-radius: 15px;
+}
+.right h1{
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.right p{
+    text-align: justify;
+}

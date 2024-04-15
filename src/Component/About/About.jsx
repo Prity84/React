@@ -1,0 +1,12 @@
+import React from 'react'
+
+const About = () => {
+  return (
+    <div className='container'>
+      I am About section 
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem dolorum sit, cupiditate consequuntur corporis porro dignissimos pariatur laboriosam consequatur reiciendis consectetur quasi optio veniam deserunt recusandae, ullam quidem quas minus rem. Nemo minima sunt distinctio fugiat dolor consequuntur laudantium amet dolorum dolorem, corrupti nam, perferendis voluptatem modi quisquam atque. Incidunt officiis harum at modi quidem eum illum repellendus minus voluptate dolore soluta nihil voluptatem, dicta ullam perspiciatis atque fugiat, commodi quaerat asperiores ipsum labore sunt possimus neque! Accusantium assumenda laborum cupiditate corrupti minus error quod culpa consequuntur modi quae rerum nemo corporis, aperiam ipsa, illo nulla quos expedita, omnis reprehenderit libero officiis. Ratione sunt doloribus autem facere ipsum voluptatem quia nisi mollitia, dicta tempore fugiat, nesciunt asperiores alias, perspiciatis at est soluta similique sequi molestiae. Sequi eos rerum corrupti numquam velit amet, hic voluptas. Provident architecto temporibus nisi sit expedita impedit vitae et, optio tenetur aliquam delectus esse dolorem! Ipsum repudiandae soluta necessitatibus earum quisquam quibusdam porro quae animi autem vitae, nostrum alias eveniet distinctio totam dolor ex eum accusantium officiis. Consectetur saepe cumque ducimus dolorum rem optio eveniet, labore necessitatibus magni consequuntur et molestias? Recusandae sint possimus illum sed repudiandae nulla, est quasi necessitatibus, aspernatur unde consequatur quos itaque eligendi ea. Sit quos, veniam nobis nostrum optio autem architecto molestias possimus tenetur hic recusandae, doloribus porro itaque magnam aliquid consequatur dolor est quo ab explicabo ducimus? Eveniet labore, suscipit nam obcaecati ad architecto ipsam blanditiis laudantium eligendi ducimus autem, magni distinctio! Itaque quia pariatur magni dolore culpa recusandae distinctio nesciunt, repellat quam excepturi placeat natus enim perferendis facilis atque porro cupiditate molestiae neque explicabo ducimus eius sit! Ad voluptates delectus ipsam accusantium officiis ea nostrum hic, tempora sapiente autem quis cumque dolor adipisci mollitia officia eligendi alias. Aliquam at quae, nihil rerum tenetur iste et quibusdam optio corrupti asperiores!
+    </div>
+  )
+}
+
+export default About

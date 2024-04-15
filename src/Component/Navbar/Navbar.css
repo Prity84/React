@@ -1,0 +1,26 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 60px;
+}
+.logo{
+    width: 120px;
+  }
+  .logo img{
+    width: 100%;
+    border-radius: 50%;
+  }
+  ul{
+    display: flex;
+    gap: 50px;
+  }
+  ul li{
+    list-style: none;
+  }
+  /* ul li:hover{
+    text-decoration: underline;
+  } */
+  ul li{
+    font-weight: bold;
+  }

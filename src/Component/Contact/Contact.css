@@ -1,0 +1,29 @@
+.contact{
+    display: flex;
+    gap: 30px;
+    justify-content: space-around;
+}
+.myimg img{
+    height: 350px;
+    width: 250px;
+    border-radius: 50%;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    margin-top: 100px;
+    gap: 20px;
+}
+form input{
+    padding: 10px 20px;
+    font-weight: bold;
+    border-radius: 7px;
+    border: 1px solid black;
+    outline: none;
+}
+.btn{
+    padding: 7px 12px;
+    border-radius: 5px;
+    background-color: antiquewhite;
+    color: black;
+}
